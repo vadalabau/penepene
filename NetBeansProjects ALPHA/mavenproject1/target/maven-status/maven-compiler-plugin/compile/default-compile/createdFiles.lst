@@ -1,0 +1,6 @@
+com\mycompany\VISTAS\TiendaVirtual.class
+com\mycompany\mavenproject1\Mavenproject1.class
+com\mycompany\DAO\Reserva.class
+com\mycompany\MODELO\ENTIDADES\Usuario.class
+com\mycompany\CONTROLADOR\ConexionDB.class
+com\mycompany\MODELO\ENTIDADES\Producto.class
